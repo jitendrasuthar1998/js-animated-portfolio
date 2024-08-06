@@ -128,3 +128,16 @@ a{
     box-shadow: 10px 10px 100px 50px rgb(50,55,205);
   }
 }
+
+.ex{
+  width:900px;
+}
+
+.ex-items{
+  background-color: var(--bg-color);
+  width:800px;
+  padding:30px;
+  border-radius: 10px;
+  border:1px solid yellow;
+  box-shadow: var(--box-shadow);
+}
